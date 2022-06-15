@@ -21,3 +21,52 @@ button{
     background-color: #025157;
     color: #fff;
 }
+.header {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+  }
+  .navbar {
+    width: 70%;
+    text-align: left;
+    color: #025157;
+    font-weight: 500;
+    font: sans-serif;
+    height: 45px;
+  }
+
+  .action{
+    text-align: left;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+  li{
+    display: inline;
+    margin-left: 25px;
+    margin-right: 25px;
+    color: #025157;
+  }
+
+  .header > * {
+    display: inline-block;
+  }
+
+  .info-principal{
+        margin-top: 20px;
+        text-align: center;
+  }
+.action a{
+    color: #67b54b;
+}
+.start{
+    background-color: #67b54b;
+    color: #fff;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+}
