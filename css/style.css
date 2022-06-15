@@ -1,5 +1,7 @@
 body {
     background-color: #fffbf7;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
 }
 
 h1 {
@@ -29,7 +31,7 @@ button{
   }
   .navbar {
     width: 70%;
-    text-align: left;
+    text-align: center;
     color: #025157;
     font-weight: 500;
     font: sans-serif;
@@ -37,7 +39,7 @@ button{
   }
 
   .action{
-    text-align: left;
+    text-align: center;
     font-size: 14px;
     margin-left: 10px;
     margin-right: 10px;
